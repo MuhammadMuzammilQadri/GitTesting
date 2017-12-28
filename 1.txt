@@ -1,1 +1,2 @@
 Auth added.
+Auth bugs fixed.
